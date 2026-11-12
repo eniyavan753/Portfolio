@@ -18,7 +18,6 @@ const commands = {
     "tetris - Play Tetris",
     "clear - Clear the screen",
   ],
-  const profile = {
   about: [
     "I'm Eniyavan K",
     "⚡ A B.Tech IT graduate and Backend Developer with 3+ years of experience.",
